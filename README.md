@@ -1,6 +1,6 @@
 # Percolation
 
-This code estimate the value of the *percolation threshold* via Monte Carlo simulation.
+This code estimates the value of the *percolation threshold* via Monte Carlo simulation.
 
 ## Instruction
 
